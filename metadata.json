@@ -1,0 +1,5 @@
+{
+  "name": "Travel Editorial Intelligence Dashboard",
+  "description": "A strategic dashboard analyzing editorial market share, destination clustering, and content gaps between Boscolo, WeRoad, and Si Vola.",
+  "requestFramePermissions": []
+}
