@@ -34,7 +34,6 @@ type TabId =
   templateUrl: './app.component.html',
 })
 export class AppComponent {
-  // tabs per la navigazione (devono combaciare con quello che usi nell'HTML)
   tabs = [
     { id: 'overview' as TabId, label: 'Overview' },
     { id: 'destinations' as TabId, label: 'Destinations' },
